@@ -17,7 +17,7 @@ MSc Accounting and Finance (Merit), University of Hull. Hands-on projects using 
 **Question:** which customers are leaving, and why?
 
 - 4-page dashboard: Executive Overview, Customer Demographics, Customer Churn Analysis, Product and Loyalty Analysis
-- 27 SQL queries (SELECT, JOINs, GROUP BY, CASE WHEN, aggregates)
+- 27 SQL queries (SELECT, GROUP BY, CASE WHEN, aggregates)
 - Power Query cleaning; churn rate = churned / total customers
 
 **Key findings**
