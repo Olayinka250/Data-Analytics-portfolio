@@ -6,7 +6,7 @@ MSc Accounting and Finance (Merit), University of Hull. Hands-on projects using 
 
 | Project | Tools | Scale | Link |
 |---|---|---|---|
-| Bank Customer Churn | Power BI, SQL, DAX | 10,000 customers, 27 SQL queries, 4-page dashboard | [add link] |
+| Bank Customer Churn | Power BI, SQL, DAX | 10,000 customers, 26 SQL queries, 4-page dashboard |  |
 | Chocolate Sales | Power BI, SQL, Excel | 1M+ rows, 5 relational tables | [add link] |
 | Healthcare Admissions | Excel, Power Query, Pivot Tables | 33,556 rows, 7 charts + KPI cards + Year slicer | [add link] |
 
@@ -17,7 +17,7 @@ MSc Accounting and Finance (Merit), University of Hull. Hands-on projects using 
 **Question:** which customers are leaving, and why?
 
 - 4-page dashboard: Executive Overview, Customer Demographics, Customer Churn Analysis, Product and Loyalty Analysis
-- 27 SQL queries (SELECT, GROUP BY, CASE WHEN, aggregates)
+- 26 SQL queries (SELECT, GROUP BY, CASE WHEN, aggregates)
 - Power Query cleaning; churn rate = churned / total customers
 
 **Key findings**
