@@ -6,7 +6,7 @@ MSc Accounting and Finance (Merit), University of Hull. Hands-on projects using 
 
 | Project | Tools | Scale | Link |
 |---|---|---|---|
-| Bank Customer Churn | Power BI, SQL, DAX | 10,000 customers, 26 SQL queries, 4-page dashboard |  |
+| Bank Customer Churn | Power BI, SQL, DAX | 10,000 customers, 26 SQL queries, 4-page dashboard | bank_churn_analysis.sql|
 | Chocolate Sales | Power BI, SQL, Excel | 1M+ rows, 5 relational tables | [add link] |
 | Healthcare Admissions | Excel, Power Query, Pivot Tables | 33,556 rows, 7 charts + KPI cards + Year slicer | [add link] |
 
