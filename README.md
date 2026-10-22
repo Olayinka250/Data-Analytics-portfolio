@@ -27,9 +27,13 @@ MSc Accounting and Finance (Merit), University of Hull. Hands-on projects using 
 - Customers who complained churned at close to 100%
 - Customers with 2 products churn least
 
-*SQL file:* `bank_churn_analysis.sql` — [ bank_churn_analysis.sql]
+*SQL file:* `bank_churn_analysis.sql` — [view SQL](bank_churn_analysis.sql)
 
----
+<img width="800" alt="Bank churn customer-overview page 1" src="https://github.com/user-attachments/assets/0954d37a-12bf-4662-a20f-e67cfff7536b" />
+<img width="800" alt="bank churn customer-page2 (Customer Demographics)" src="https://github.com/user-attachments/assets/8c346292-c223-4f4d-b815-e2b511e0b3b0" />
+<img width="800" alt="Bank churn customer - page 3 (customer churn analysis)" src="https://github.com/user-attachments/assets/0c111be7-ef6d-4aad-b9ca-2dcf5e2cc606" />
+<img width="800" alt="Bank churn customer- page 4 product and loyalty analysis" src="https://github.com/user-attachments/assets/a92fb591-d351-411d-a864-31f545bdbbd6" />
+
 
 ## 2. Chocolate Sales (Power BI, SQL, Excel)
 
