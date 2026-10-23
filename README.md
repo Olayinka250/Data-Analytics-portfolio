@@ -81,6 +81,8 @@ MSc Accounting and Finance (Merit), University of Hull. Hands-on projects using 
 - Patients aged 0-18 are only 491 of 33,556 admissions; 66+ is the largest group (9,936)
 - 2020 was the busiest full year (6,875); the May 2024 dip is only because the data ends part-way through that month
 
+<img width="800" alt="Health care dashboard" src="https://github.com/user-attachments/assets/06c15ba4-deb9-4a21-87d9-94374e82ffb5" />
+
 *Dataset: Kaggle synthetic healthcare dataset. Findings are illustrative, not clinical.*
 
 ---
