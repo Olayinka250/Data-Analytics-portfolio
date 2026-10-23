@@ -28,6 +28,13 @@ MSc Accounting and Finance (Merit), University of Hull. Hands-on projects using 
 - Customers who complained churned at close to 100%
 - Customers with 2 products churn least
 
+<img width="800" alt="Bank churn customer-overview" src="https://github.com/user-attachments/assets/323b9af7-e8e8-4e03-ad07-b3464d6df253" />
+<img width="800" alt="Bank churn customer -page2 customer demographics" src="https://github.com/user-attachments/assets/28180862-edae-4a21-88e3-412b18e4bf34" />
+<img width="800" alt="Bank churn customer-page 3 customer churn analysis" src="https://github.com/user-attachments/assets/66373c85-70b9-4ec9-a1f6-fb55f862ad0e" />
+<img width="800" alt="Bank churn customer -page 4 product and loyalty analysis" src="https://github.com/user-attachments/assets/6988bf78-c32b-4757-99ff-c048311e04f8" />
+
+
+
 **Recommendations**
 - **Prioritise customers aged 46-55.** This group churns at 50.6%, more than double the 20.4% overall rate. Pilot proactive check-ins and products suited to this life stage, such as savings and retirement planning.
 - **Fix complaint handling.** Customers who complained churned at close to 100%. Treat every complaint as a retention risk: resolve it quickly and follow up afterwards to confirm the customer is satisfied.
