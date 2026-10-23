@@ -81,6 +81,12 @@ MSc Accounting and Finance (Merit), University of Hull. Hands-on projects using 
 - Patients aged 0-18 are only 491 of 33,556 admissions; 66+ is the largest group (9,936)
 - 2020 was the busiest full year (6,875); the May 2024 dip is only because the data ends part-way through that month
 
+**Recommendations**
+- **Plan services around older patients.** Patients aged 66+ are the largest group (9,936 admissions). Pilot more community health checks for older adults to reduce avoidable admissions.
+- **Review elective cancer costs.** Elective admissions cost about £1,077 more than urgent ones for cancer patients. Investigate what drives the gap before changing how these admissions are managed.
+- **Focus cost reviews on admission type, not condition.** Average billing is almost identical across medical conditions (about £25.2k to £25.9k), so admission type is the more useful place to look for savings.
+- **Report only complete months.** The May 2024 dip is because the data ends part-way through the month. Excluding partial months stops trends being misread as a fall in admissions.
+
 <img width="800" alt="Health care dashboard" src="https://github.com/user-attachments/assets/06c15ba4-deb9-4a21-87d9-94374e82ffb5" />
 
 *Dataset: Kaggle synthetic healthcare dataset. Findings are illustrative, not clinical.*
