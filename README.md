@@ -27,6 +27,12 @@ MSc Accounting and Finance (Merit), University of Hull. Hands-on projects using 
 - Customers who complained churned at close to 100%
 - Customers with 2 products churn least
 
+**Recommendations**
+- **Prioritise customers aged 46-55.** This group churns at 50.6%, more than double the 20.4% overall rate. Pilot proactive check-ins and products suited to this life stage, such as savings and retirement planning.
+- **Fix complaint handling.** Customers who complained churned at close to 100%. Treat every complaint as a retention risk: resolve it quickly and follow up afterwards to confirm the customer is satisfied.
+- **Investigate churn in Germany.** It has the highest churn of the three countries. Compare service, pricing and competition with France and Spain before launching a targeted retention campaign.
+- **Encourage a second product.** Customers with 2 products churn least. Offer relevant second products to single-product customers.
+- **Review the Diamond card offer.** Diamond holders report the lowest satisfaction. Survey them to find out whether the benefits match what they expect.
 *SQL file:* `bank_churn_analysis.sql` — [view SQL](bank_churn_analysis.sql)
 
 <img width="800" alt="Bank churn customer-overview page 1" src="https://github.com/user-attachments/assets/0954d37a-12bf-4662-a20f-e67cfff7536b" />
@@ -57,7 +63,10 @@ MSc Accounting and Finance (Merit), University of Hull. Hands-on projects using 
 - **Plan campaigns around the February dip.** Revenue falls in February after festive spending, so a promotion in that month could help.
 - **Review the loyalty programme.** Members spend about the same per customer as non-members (508.80 vs 510.65), so the programme does not appear to be driving extra spend. Review what members get and whether it needs to change.
 
----
+<img width="800" alt="chocolate-overview" src="https://github.com/user-attachments/assets/9b1841c1-e610-4f93-b7b1-39fb39100396" />
+<img width="800" alt="chocolate-overview page 2(customer   store analysis)" src="https://github.com/user-attachments/assets/fd72fec6-ba37-46bc-a98e-6f4c72a00abf" />
+<img width="800" alt="chocolate sales -overview page 3 (kpi Tracking)" src="https://github.com/user-attachments/assets/72ebc4c7-e728-4f0b-bf9e-b4009026386b" />
+
 
 ## 3. Healthcare Admissions Dashboard (Excel)
 
